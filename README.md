@@ -1,2 +1,2 @@
 # cosway2
-the real cosway 
+bad http server. 
